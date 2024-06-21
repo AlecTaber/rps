@@ -1,0 +1,1 @@
+let game = prompt("Do you want to play Rock, Paper, Scissors? Type r, p, or s");
